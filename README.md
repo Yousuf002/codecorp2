@@ -1,3 +1,3 @@
 # codecorp2
 
-this is imporved readme
+this is improved readme
